@@ -38,8 +38,6 @@ In the event of a forgotten password, a "Forget Password?" link is provided. By 
 
 Once your credentials are verified, click the "Sign In" button to access the comprehensive gatekeeping features and tools available to you.
 
-Thank you for being a crucial part of our security infrastructure. Your commitment to maintaining a safe and secure environment is highly valued. If you encounter any issues or have questions, our support team is ready to assist you.
-
 ## QR Scanner Module
 
 ![App Screenshot](https://github.com/kohboontao123/visitor_access_app_gatekeeper/blob/main/screenshot/qrcode%20scanner.png?raw=true)
@@ -68,7 +66,6 @@ Our QR Scanner Module seamlessly integrates with the gatekeeping system, providi
 
 We understand the importance of a secure and efficient gatekeeping system. The QR Scanner Module is tailored to elevate the identity validation process, offering gatekeepers a modern and effective tool to uphold the safety and integrity of the premises.
 
-Thank you for utilizing our advanced gatekeeping features. If you have any questions or require assistance, our support team is ready to provide the help you need.
 
 ## Face recognition Module
 
@@ -98,9 +95,8 @@ Our Face Recognition Module seamlessly integrates with the overall gatekeeping s
 
 We recognize the importance of robust security in access control. The Face Recognition Module serves as a powerful tool to fortify the gatekeeping process, providing an advanced level of identity verification to safeguard the premises.
 
-Thank you for utilizing our advanced gatekeeping features. For any inquiries or assistance, our support team is readily available to assist you.
 
-## Visitor Comfirmation Module
+## Visitor Confirmation Module
 
 ![App Screenshot](https://github.com/kohboontao123/visitor_access_app_gatekeeper/blob/main/screenshot/visitor%20details.png?raw=true)
 
@@ -140,4 +136,3 @@ Designed with efficiency in mind, this module streamlines the access control pro
 
 Our Visitor Confirmation Module serves as a critical tool in maintaining a secure and well-regulated access environment. By providing gatekeepers with comprehensive visitor details and actionable buttons, we aim to elevate the overall security measures within the premises.
 
-Thank you for choosing our advanced gatekeeping system. For any further assistance or inquiries, our support team is ready to assist you.
